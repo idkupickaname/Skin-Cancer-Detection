@@ -34,7 +34,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo
     ```sh
-    git clone [https://github.com/drohan0717/Skin-Cancer-Detection-System.git]
+    git clone [https://github.com/idkupickaname/Skin-Cancer-Detection.git]
     ```
 
 ## Usage
